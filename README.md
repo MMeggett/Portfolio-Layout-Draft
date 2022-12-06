@@ -14,6 +14,10 @@ Links at top of page take to sections further down with further information on t
 
 ![Screenshot](assets/images/screenshot.png)
 
+## Credits
+
+N/A
+
 ## License
 
 Please refer to the LICENSE in the repo.

@@ -12,6 +12,8 @@ N/A
 
 Links at top of page take to sections further down with further information on topics in navigation bar. The images in the past works spot will take users to different websites.
 
+![Screenshot](assets/images/screenshot.png)
+
 ## License
 
 Please refer to the LICENSE in the repo.

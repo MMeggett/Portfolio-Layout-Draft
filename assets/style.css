@@ -108,6 +108,7 @@ h1 {
     max-height: 400px;
     display: flex;
     margin: auto;
+    align-items: center;
 }
 
 .first-container {
